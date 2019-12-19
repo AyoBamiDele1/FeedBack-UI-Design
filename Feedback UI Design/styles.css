@@ -1,0 +1,43 @@
+
+body {
+    background: whitesmoke;
+}
+
+.container {
+    width: 25rem;
+    height: 20rem;
+    align-items: center;
+    background: whitesmoke;
+    margin: 0 auto;
+    margin-top: 9rem;
+    box-shadow: 2px 3px 10px 4px grey;
+}
+
+.customer {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 2rem 1.2rem 2rem 1.2rem; 
+}
+
+.container .btn {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 0.8rem;
+    background: #302D2B;
+    border: none;
+    border-radius: 5px;
+    color: whitesmoke;
+    width: 40%;
+    cursor: pointer;
+}
+
+.emoji img {
+    width: 4rem;
+    display: inline;
+    margin-top: 2rem;
+    padding: 0.5rem;
+    border: 1px solid rgba(235, 229, 229, 0.925);
+    border-radius: 5px;
+}
+
